@@ -1,11 +1,12 @@
 <resources>
-    <string name="app_name">Lab3</string>
-    <string name="perimeter_button_name">Периметр</string>
-    <string name="area_button_name">Площа</string>
-    <string name="square_button_name">Квадрат</string>
-    <string name="triangle_button_name">Трикутник</string>
-    <string name="circle_button_name">Коло</string>
-    <string name="info_button_name">Відкрити сховище</string>
-    <string name="erase_button_name">Очистити сховище</string>
-
+    <string name="app_name">Lab2</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string name="but">Calculate</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="errtext">One or both parameters are empty</string>
+    <string name="zerotext">You are trying to divide by zero</string>
+    <string name="nan">You are using forbidden characters</string>
+    <string name="result">Result</string>
+    <string name="empty">Storage is empty</string>
 </resources>
